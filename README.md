@@ -4,6 +4,8 @@ Name of the main file: final_assignment.ipynb
 ## Research question:
 Is there any influence of Cholesterol and glucose on BMI?
 
+#### All necessary explanations, including the conclusion, are in the main jupyter file.
+
 ## Source:
 LifeLine
 
