@@ -2,7 +2,11 @@
 Name of the main file: final_assignment.ipynb
 
 ## Research question:
-Is there any influence of Cholesterol and glucose on BMI?
+1- Is there any difference in the mean BMI values between males and females?
+
+2- Is there any difference in the mean BMI values between the two types of gender seperation?
+
+3- Assess the effect of BMI on Glucose and Cholestrol separately?
 
 #### All necessary explanations, including the conclusion, are in the main jupyter file.
 
@@ -17,6 +21,10 @@ LifeLine
 - Yaml
 - Matplotlib
 - Seaborn
+- Bokeh
+- Sklearn.linear_model
+- Panel
+- 
 - Scipy
 - Folium
 - Geopandas
